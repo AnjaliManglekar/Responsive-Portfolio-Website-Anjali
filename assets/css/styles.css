@@ -919,6 +919,12 @@ img {
     .skills__title{
         font-size: var(--normal-font-size);
     }
+	
+	.skills__list {
+    row-gap: 1.5rem;
+    padding-left: 2.7rem;
+    /*grid-template-columns: 300px 300px;*/
+    }
 
     .qualification__data{
         gap: .5rem;
